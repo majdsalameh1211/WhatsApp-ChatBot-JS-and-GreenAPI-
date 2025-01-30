@@ -1,4 +1,4 @@
-# WhatsApp-ChatBot-JS-and-GreenAPI-
+# WhatsApp-ChatBot-JS-and-GreenAPI
 WhatsApp Chat Bot Using Green API
 
 WhatsApp Chatbot for Client Interaction 🤖💬
